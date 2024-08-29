@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # App Screenshots
-<img src="https://user-images.githubusercontent.com/Screenshot_20240829_195054.png" width="340" height="540">|<img src="https://user-images.githubusercontent.com/Screenshot_20240829_195054.png" width="340" height="540">
+<img src="https://github.com/denkiri/interview_test/blob/master/Screenshot_20240829_195054.png" width="340" height="540">|<img src="https://github.com/denkiri/interview_test/blob/master/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-29%20at%2019.53.44.png" width="340" height="540">
